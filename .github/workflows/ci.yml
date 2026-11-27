@@ -1,4 +1,4 @@
-name: Rehearsal
+name: Checked squash rehearsal
 on:
   pull_request:
     types: [opened, synchronize, reopened]
