@@ -1,7 +1,5 @@
 name: Rehearsal
 on:
-  push:
-    branches: [fixture-diagnostic]
   pull_request:
     types: [opened, synchronize, reopened]
 permissions: {}
